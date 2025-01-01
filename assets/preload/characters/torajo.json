@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-60
+			],
+			"anim": "idle",
+			"fps": 15,
+			"name": "torajo idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-60
+			],
+			"anim": "singLEFT",
+			"fps": 15,
+			"name": "torajo left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-60
+			],
+			"anim": "singDOWN",
+			"fps": 15,
+			"name": "torajo down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-60
+			],
+			"anim": "singUP",
+			"fps": 15,
+			"name": "torajo up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-60
+			],
+			"anim": "singRIGHT",
+			"fps": 15,
+			"name": "torajo right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/torajo",
+	"position": [
+		20,
+		120
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		215,
+		60
+	],
+	"camera_position": [
+		-80,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2,
+	"_editor_isPlayer": false
+}
